@@ -1,0 +1,20 @@
+.post-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.post-list-item {
+    width: 300px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+.post-list-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
